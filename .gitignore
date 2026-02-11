@@ -8,4 +8,6 @@ expo-env.d.ts
 /android/
 .expo
 .vscode
+.env*.local
+.env
 # @end expo-cli
